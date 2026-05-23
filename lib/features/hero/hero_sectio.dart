@@ -153,7 +153,7 @@ class HeroSection extends StatelessWidget {
                   ),
 
                   child: Image.asset(
-                    "assets/images/glace.png",
+                    "assets/images/image.png",
                     fit: BoxFit.cover,
                   ),
                 ),
